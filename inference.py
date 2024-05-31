@@ -7,6 +7,8 @@ import cv2
 import numpy as np
 import os
 
+//commiting into the git hub
+
 def crop_with_ldmk(img, ldmk):
     std_ldmk = np.array([[193, 240], [319, 240],
                          [257, 314], [201, 371],
